@@ -18,7 +18,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 import config
 from config import BANNED_USERS
 from LyraMusic import LOGGER, app, userbot
-from LyraMusic.core.call import Yukki
+from LyraMusic.core.call import Lyra
 from LyraMusic.plugins import ALL_MODULES
 from LyraMusic.utils.database import get_banned_users, get_gbanned
 
@@ -60,9 +60,9 @@ async def init():
         "Successfully Imported Modules "
     )
     await userbot.start()
-    await Yukki.start()
+    await Lyra.start()
     try:
-        await Yukki.stream_call(
+        await Lyra.stream_call(
             "http://docs.evostream.com/sample_content/assets/sintel1m720p.mp4"
         )
     except NoActiveGroupCall:
@@ -72,11 +72,11 @@ async def init():
         sys.exit()
     except:
         pass
-    await Yukki.decorators()
-    LOGGER("LyraMusic").info("Yukki Music Bot Started Successfully")
+    await Lyra.decorators()
+    LOGGER("LyraMusic").info("Lyra Music Bot Started Successfully")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("LyraMusic").info("Stopping Yukki Music Bot! GoodBye")
+    LOGGER("LyraMusic").info("Stopping Lyra Music Bot! GoodBye")
