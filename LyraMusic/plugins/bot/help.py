@@ -9,7 +9,7 @@
 #
 
 
-from LyraMusic.plugins.techzbots.start import start_menu_group, start_menu_private
+from LyraMusic.plugins.xcodebots.start import start_menu_group, start_menu_private
 from typing import Union
 
 from pyrogram import filters, types
