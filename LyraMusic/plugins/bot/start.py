@@ -8,7 +8,7 @@
 # All rights reserved.
 #
 
-from LyraMusic.plugins.techzbots.start import start_menu_group, start_menu_private
+from LyraMusic.plugins.xcodebots.start import start_menu_group, start_menu_private
 import asyncio
 
 from pyrogram import filters
