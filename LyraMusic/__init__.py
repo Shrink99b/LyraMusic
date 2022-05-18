@@ -8,7 +8,7 @@
 # All rights reserved.
 #
 
-from LyraMusic.core.bot import MissLyraRobot
+from LyraMusic.core.bot import LyraBot
 from LyraMusic.core.dir import dirr
 from LyraMusic.core.git import git
 from LyraMusic.core.userbot import Userbot
@@ -32,7 +32,7 @@ heroku()
 sudo()
 
 # Bot Client
-app = LyraMusic()
+app = LyraBot()
 
 # Assistant Client
 userbot = Userbot()
