@@ -32,7 +32,7 @@ heroku()
 sudo()
 
 # Bot Client
-app = MissLyraRobot()
+app = LyraMusic()
 
 # Assistant Client
 userbot = Userbot()
