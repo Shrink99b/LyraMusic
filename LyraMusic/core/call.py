@@ -383,7 +383,7 @@ class Call(PyTgCalls):
                 run = await app.send_photo(
                     original_chat_id,
                     photo=img,
-                    caption=_["stream_1"].format(
+                    caption=_["stream_5"].format(
                         user,
                         f"https://t.me/{app.username}?start=info_{videoid}",
                     ),
@@ -433,7 +433,7 @@ class Call(PyTgCalls):
                 run = await app.send_photo(
                     original_chat_id,
                     photo=img,
-                    caption=_["stream_1"].format(
+                    caption=_["stream_5"].format(
                         user,
                         f"https://t.me/{app.username}?start=info_{videoid}",
                     ),
@@ -520,7 +520,7 @@ class Call(PyTgCalls):
                     run = await app.send_photo(
                         original_chat_id,
                         photo=img,
-                        caption=_["stream_1"].format(
+                        caption=_["stream_5"].format(
                             user,
                             f"https://t.me/{app.username}?start=info_{videoid}",
                         ),
