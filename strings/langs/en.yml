@@ -237,6 +237,7 @@ stream_1 : "**[Get Additional Information 💡]({2})**\n\n**⑆ User :** **{0}**
 stream_2 : "**[Get Additional Information 💡]({2})**\n\n**⑆ User :** **{0}**\n**⑆ Group : [{1}..](https://t.me/XdFamilY)**"
 stream_3 : "📡 **Started Streaming** 💡\n\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n👤**Requested By:** {2}"
 stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n👤**Requested By:** {3}"
+stream_5 : "**[Get Additional Information 💡]({1})**\n\n**⑆ User :** **{0}**"
 
 # Inline Buttons
 
