@@ -54,6 +54,11 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheFelliX/LyraTestBot)
 
+## 🖇 okteto Deployment
+
+<h4>Click the button below to deploy Lyra on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository= https://github.com/NitricXd/LyraMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+
 ## 🖇 VPS Deployment
 
 > Checkout [Channel](https://t.me/TheXCodeTeam) for Detailed Explanation on VPS Deploy
