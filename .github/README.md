@@ -1,6 +1,6 @@
-<p align="center"><a href="https://t.me/TheXCodeTeam/"><img src="https://telegra.ph/file/f9a82e462cba44f08c087.jpg"></a></p>
+<p align="center"><a href="https://t.me/TheXCodeTeam/"><img src="https://telegra.ph/file/098f1727affd52971a002.jpg"></a></p>
 <p align="center">
-    <br><b>Lyra Music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
+    <br><b>ᴠᴇɴᴏᴍ ✘ ᴍᴜsɪᴄ is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
